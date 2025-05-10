@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Virtual environment
+venv/
+.env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python package dependencies
+*.egg-info/
+dist/
+build/
+
+# NLTK data
+nltk_data/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+*.secret
+
+# Model files & cache
+*.h5
+*.pkl
+*.joblib
+__pycache__/
+cache/
+
+# Data files
+data/
+*.xlsx
+*.pickle
+*.json
+
+*.bin
+
+# Ignore large files
+*.tar.gz
+*.zip
+
+results*/
